@@ -1,4 +1,4 @@
-# IBM-Datascience-Capstone
+# IBM Data Science Capstone
 This is the repository for the capstone project of IBM Professional Data Science course offered along with Coursera.
 
 ## Overview
